@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @valterhashimoto
-- 👀 I’m interested in Cloud & Data Architecture, DevOps, AI, Robotics, Cyber-physical systems, Society 5.0.
-- 🌱 I’m currently learning Cloud Infrastructure, UNIX. 
+- 👀 I’m interested in Cloud/Data Architecture & Infrastructure, DevOps, AI, Robotics, Cyber-physical systems, Society 5.0.
+- 🌱 Currently learning Cloud Infrastructure, DevOps, CI/CD pipelines on AWS, Azure and GCP 
 - 📫 How to reach me linkedin.com/in/vhashimoto
